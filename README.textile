@@ -1,0 +1,12 @@
+h1. This is the data for the bikers' blog
+
+It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll 
+
+h1. License
+
+The following directories and their contents are Copyright /ut7. You may not reuse anything therein without my permission:
+
+* _posts/
+
+Layouts and  taken from from http://github.com/mojombo/jekyll. Thanks to mojombo for releasing it under a friendly licence.
+screen.css and syntax.css taken from http://github.com/sl4m/sl4m.github.com
