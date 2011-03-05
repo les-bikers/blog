@@ -1,6 +1,9 @@
-Les bikers?
-===========
+---
+layout: post
+---
 
+{{ page.title }}
+=======
 Les bikers c’est quatre développeurs fiers de produire du code de qualité. C’est une équipe pleine de talents et de courage pour les exploiter au mieux. Ce qui nous importe c’est de faire en sorte d’écrire du logiciel maintenable par n’importe lequel d’entre nous, voire même n’importe quel développeur. Ayant toujours soif d’apprentissage, nous sommes à l'affût d'amélioration de nos connaissances et de nos compétences, ainsi nous sommes constamment à la recherche de nouveaux défis.
 
 Pour la petite histoire, voici comment les bikers se sont formés. On est à mi-budget du projet, au quart des fonctionnalités souhaitées, le serveur de l’application, bien que minimaliste, tend à figer et beaucoup des fonctionnalités manquantes seront sur celui-ci. Le client ne sait plus s’il veut continuer, rien ne va plus. Depuis le début du projet le nombre de développeurs à passer de 6 à 3 et il ne reste plus que Laurent, Raphaël et moi sur l’équipe et l’application est entièrement en C#. Arrive un souffle nouveau, Manu, qui se joint à l’équipe et dit : «  Je fais le pari qu’on peut refaire l’appli avec Rails et Ruby en un mois. » Ce pari est un peu audacieux vu le risque que ça engendre ! Mais, nous avons tout de même tenté d’explorer l’idée. Quelques spikes et discussions plus tard, nous avons pris la décision de refaire la partie serveur seulement avec RoR. Nous fûmes agréablement surpris de constater la simplicité de la communication entre C# et Rails. Puis nous nous sommes donné les moyens de réussir notre pari. Le plus important a été de passer à l’eXtrême programming. En effet, nous avons intégrés plusieurs principes dont le binômage, le TDD et les itérations courtes. Tout le long du projet, il y a eu d’autres actions efficaces telles que réduire le code legacy, réduire le temps de test, améliorer l’intégration continue et automatiser le déploiement en recette et en production.
